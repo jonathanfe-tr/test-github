@@ -23,8 +23,8 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying.... dude man 3'
+                echo 'Deploying.... dude man 4'
             }
         }
     }
-}mv 
+}
